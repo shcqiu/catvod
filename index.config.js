@@ -1,4 +1,4 @@
-var __defProp = Object.defineProperty;
+mvar __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
@@ -42,7 +42,7 @@ var index_config_default = {
     }
   },
   baidu: {
-    cookie: ""
+    cookie: "BDUSS=GE2N342cmhOVzZET3JnfmkybTd1dkdoVWN5M0ZRcXl2fjFPSUxmMG9pdzBBWDlxSVFBQUFBJCQAAAAAAAAAAAEAAAAXxzecs~C087nZyMtfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADR0V2o0dFdqZ;STOKEN=a441355755a6cd88276672b0b962073fd55cf6161d630fa8e2d87654f7e7f910;;BDCLND=IxClwE%2F3tLqsMIDQQuohoMegr8u0H77pVtqSmkHh2Io%3D"
   },
   tianyi: {
     username: "",
